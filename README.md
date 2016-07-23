@@ -6,6 +6,7 @@ for each team
   average score variance per week
   
   
+  
 for each defensive player 
   average score per game by year
   distribution of scores pergame
